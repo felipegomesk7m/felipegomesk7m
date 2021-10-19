@@ -7,7 +7,7 @@
 
 ## About me:
 
-I'm a Computer Science Student and a Future Front-End Developer :smile:
+🌱 I'm a Computer Science Student and a Future Front-End Developer :smile:
 
 I Love technologies, create new stuff and Design UX/UI.
 
